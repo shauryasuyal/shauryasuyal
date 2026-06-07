@@ -1,7 +1,7 @@
 ## Hi there, Im Shaurya👋!
 ###
 
-<h6 align="left">Majoring in IT at DTU and minoring in "copy-pasting from Stack Overflow until it works."</h6>
+<h6 align="left">Majoring in IT at DTU and minoring in copy pasting from Stack Overflow until it works.</h6>
 
 ###
 
