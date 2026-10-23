@@ -105,10 +105,14 @@
 ### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&perline=12" alt="Languages"/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,flask,mongodb,firebase,androidstudio,kotlin&perline=12" alt="Frameworks and tools"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV"/>
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,ts,js&perline=12" alt="Python, C++, Java, Kotlin, TypeScript, JavaScript"/><br/><br/>
+  <b>Full-stack and mobile</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind,androidstudio&perline=12" alt="React, Next.js, Node.js, Express, FastAPI, Flask, Tailwind, Android"/><br/><br/>
+  <b>AI / ML</b><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=12" alt="PyTorch, TensorFlow, scikit-learn, OpenCV"/><br/><br/>
+  <b>Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,firebase&perline=12" alt="Git, Docker, Firebase"/>
 </p>
 
 ### GitHub stats
