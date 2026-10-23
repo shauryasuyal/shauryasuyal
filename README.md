@@ -26,7 +26,7 @@
 - **Won** AI Poker Competition, APOGEE'26, BITS Pilani *(national)*
 - **Won** OnDemand Track, brAInwave 2.0 *(national)*
 - **Won** Google Gemma Hack 2026
-- **1st Runner-up** TinyFish Hack 2026
+- **1st Runner-up** BITCAMP by TinyFish 2026
 
 ### Featured projects
 
