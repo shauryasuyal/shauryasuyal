@@ -13,7 +13,7 @@
 
 </div>
 
-### 🧑‍💻 About me
+### About me
 
 - Majoring in **IT at DTU**, minoring in copy-pasting from Stack Overflow until it works
 - Wrangling data with **pandas, XGBoost and OpenCV**, and pretending to understand the math behind ML
@@ -21,7 +21,7 @@
 - Exploring **game dev** on the side
 
 
-### 🚀 Featured projects
+### Featured projects
 
 <table>
   <tr>
@@ -95,7 +95,7 @@
   </tr>
 </table>
 
-### 🛠️ Tech stack
+### Tech stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&perline=12" alt="Languages"/><br/>
@@ -104,7 +104,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV"/>
 </p>
 
-### 📊 GitHub stats
+### GitHub stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=shauryasuyal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
