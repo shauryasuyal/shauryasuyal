@@ -19,8 +19,6 @@
 - Wrangling data with **pandas, XGBoost and OpenCV**, and pretending to understand the math behind ML
 - Building web apps with **React, Next.js and Python**
 - Exploring **game dev** on the side
-- Part of **AIMS-DTU**, regular at hackathons
-- Delhi, India
 
 
 ### 🚀 Featured projects
@@ -47,7 +45,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/shauryasuyal/PDF-Examify">📝 PDF-Examify</a></h4>
+      <h4><a href="https://github.com/shauryasuyal/PDF-Examify"> PDF-Examify</a></h4>
       Upload a PDF of MCQs and turn it into an interactive practice test.<br/><br/>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <a href="https://shauryasuyal.github.io/PDF-Examify/"><img src="https://img.shields.io/badge/Live%20demo-2ea44f?style=flat-square"/></a>
