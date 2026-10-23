@@ -63,7 +63,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/shauryasuyal/SwarmDoc">SwarmDoc</a></h4>
-      Offline first Android health assistant for ASHA workers in rural India: on device AI triage, camera based anaemia and heart rate screening, and Bluetooth mesh outbreak alerts. Built at APOGEE 2026, BITS Pilani.<br/><br/>
+      An on device Android health assistant for ASHA workers in rural India: AI triage, camera based anaemia and heart rate screening, and Bluetooth mesh outbreak alerts. Built at APOGEE 2026, BITS Pilani.<br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
       <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
