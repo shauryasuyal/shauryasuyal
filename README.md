@@ -35,7 +35,7 @@
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/shauryasuyal/PIDG-Mamba">PIDG-Mamba</a></h4>
-      Forecasts solar flares 10 minutes ahead from ISRO Aditya L1 X ray data. A TCN and a from-scratch Mamba state space model trained with a physics informed loss (Neupert effect), classifying flares as Quiet, C, M or X.<br/><br/>
+      Forecasts solar flares 10 minutes ahead from ISRO Aditya L1 X ray data. A TCN and a from scratch Mamba state space model trained with a physics informed loss (Neupert effect), classifying flares as Quiet, C, M or X.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/Mamba%20SSM-555555?style=flat-square"/>
