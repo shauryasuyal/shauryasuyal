@@ -15,10 +15,18 @@
 ### About me
 
 - Majoring in **IT at DTU**, minoring in copy pasting from Stack Overflow until it works
-- Wrangling data with **pandas, XGBoost and OpenCV**, and pretending to understand the math behind ML
-- Building web apps with **React, Next.js and Python**
-- Exploring **game dev** on the side
+- Building **AI/ML** with PyTorch: state space models, on device LLMs, RAG and agents
+- Shipping full-stack apps with **React, Next.js, Node, FastAPI** and native Android apps in **Kotlin**
+- Ex-IT intern at **DMRC** and **DDA** and exploring **game dev** on the side
+- Open to **Internships** in AI/ML and full-stack.
 
+### Achievements
+
+- **Won** Product Case Comp, APOGEE'26, BITS Pilani *(national)*
+- **Won** AI Poker Competition, APOGEE'26, BITS Pilani *(national)*
+- **Won** OnDemand Track, brAInwave 2.0 *(national)*
+- **Won** Google Gemma Hack 2026
+- **1st Runner-up** TinyFish Hack 2026
 
 ### Featured projects
 
