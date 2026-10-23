@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaurya+%F0%9F%91%8B;IT+%40+DTU+%7C+ML+%2B+Web+%2B+Software;Building+things+in+hope+that+it'll+work" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaurya+%F0%9F%91%8B;IT+%40+DTU+%7C+ML+%2B+Web+%2B+Full-Stack;Building+things.+Some+even+work." alt="Typing intro" />
 
 <p>
   <a href="https://www.linkedin.com/in/shauryasuyal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
