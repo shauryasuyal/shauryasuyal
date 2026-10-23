@@ -15,7 +15,7 @@
 
 ### About me
 
-- Majoring in **IT at DTU**, minoring in copy-pasting from Stack Overflow until it works
+- Majoring in **IT at DTU**, minoring in copy pasting from Stack Overflow until it works
 - Wrangling data with **pandas, XGBoost and OpenCV**, and pretending to understand the math behind ML
 - Building web apps with **React, Next.js and Python**
 - Exploring **game dev** on the side
