@@ -107,6 +107,6 @@
 ### GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shauryasuyal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryasuyal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shauryasuyal&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryasuyal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=Hawking-Digital-Twin,Doc_IT" alt="Top languages"/>
 </div>
