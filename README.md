@@ -22,9 +22,9 @@
 
 ### Achievements
 
-- **Won** Product Case Comp, APOGEE'26, BITS Pilani *(national)*
-- **Won** AI Poker Competition, APOGEE'26, BITS Pilani *(national)*
-- **Won** OnDemand Track, brAInwave 2.0 *(national)*
+- **Won** Product Case Comp, APOGEE'26, BITS Pilani *(National)*
+- **Won** AI Poker Competition, APOGEE'26, BITS Pilani *(National)*
+- **Won** OnDemand Track, brAInwave 2.0 *(National)*
 - **Won** Google Gemma Hack 2026
 - **1st Runner-up** BITCAMP by TinyFish 2026
 
