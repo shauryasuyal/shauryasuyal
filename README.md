@@ -15,25 +15,26 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Majoring in **IT at DTU**, minoring in copy-pasting from Stack Overflow until it works
-- 🧠 Wrangling data with **pandas, XGBoost and OpenCV**, and pretending to understand the math behind ML
-- 🌐 Building web apps with **React, Next.js and Python**
-- 🎮 Exploring **game dev** on the side
-- 🤝 Part of **AIMS-DTU**, regular at hackathons (brAInwave, HackDays, BITS case comps)
-- 📍 Delhi, India
+- Majoring in **IT at DTU**, minoring in copy-pasting from Stack Overflow until it works
+- Wrangling data with **pandas, XGBoost and OpenCV**, and pretending to understand the math behind ML
+- Building web apps with **React, Next.js and Python**
+- Exploring **game dev** on the side
+- Part of **AIMS-DTU**, regular at hackathons
+- Delhi, India
+
 
 ### 🚀 Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/shauryasuyal/Hawking-Digital-Twin">🌌 Hawking Digital Twin</a></h4>
+      <h4><a href="https://github.com/shauryasuyal/Hawking-Digital-Twin"> Hawking Digital Twin</a></h4>
       A conversational digital twin of Professor Stephen Hawking.<br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <a href="https://hawking-digital-twin-production.up.railway.app/"><img src="https://img.shields.io/badge/Live%20demo-2ea44f?style=flat-square"/></a>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/shauryasuyal/HearUsOut">👂 HearUsOut</a></h4>
+      <h4><a href="https://github.com/shauryasuyal/HearUsOut"> HearUsOut</a></h4>
       Summer project at AIMS-DTU, deployed as a Hugging Face Space.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <a href="https://huggingface.co/spaces/shauryasuyal/HearUsOut_AIMS"><img src="https://img.shields.io/badge/HF%20Space-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
@@ -41,7 +42,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/shauryasuyal/KORE">⚡ KORE</a></h4>
+      <h4><a href="https://github.com/shauryasuyal/KORE"> KORE</a></h4>
       Team FumbleGuys' submission for brAInwave 2.0.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
@@ -54,12 +55,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/shauryasuyal/AI-Poker-Bot">🃏 AI Poker Bot</a></h4>
+      <h4><a href="https://github.com/shauryasuyal/AI-Poker-Bot"> AI Poker Bot</a></h4>
       A bot that plays poker (better than me, at least).<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/shauryasuyal/FG-Gesture-Control">✋ FG Gesture Control</a></h4>
+      <h4><a href="https://github.com/shauryasuyal/FG-Gesture-Control"> FG Gesture Control</a></h4>
       Control your computer with hand gestures using computer vision.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
