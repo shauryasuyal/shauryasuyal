@@ -18,7 +18,7 @@
 - Building **AI/ML** with PyTorch: state space models, on device LLMs, RAG and agents
 - Shipping full-stack apps with **React, Next.js, Node, FastAPI** and native Android apps in **Kotlin**
 - Ex-IT intern at **DMRC** and **DDA** and exploring **game dev** on the side
-- Open to **Internships** in AI/ML, SDE and full-stack.
+- Open to **Internships** in AI/ML, SDE and Full-Stack Development 
 
 ### Achievements
 
